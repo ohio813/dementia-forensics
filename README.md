@@ -21,6 +21,7 @@ By exploiting memory acquisition tools and hiding operating system artifacts (eg
 For further details about Dementia, check the 29c3 presentation (PDF or video below).
  
 http://www.youtube.com/watch?feature=player_embedded&v=Q45uvqvripM
-![]({{site.baseurl}}/0.jpg)
+![alt tag](http://img.youtube.com/vi/Q45uvqvripM/0.jpg)
+
 
 Feel free to contact me for additional help, suggestions, criticisms, and bug reports by posting an Issue, through discussion group or by sending an e-mail directly.
