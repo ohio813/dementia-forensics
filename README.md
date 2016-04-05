@@ -19,7 +19,7 @@ Dementia is a proof of concept memory anti-forensic toolkit designed for hiding 
 By exploiting memory acquisition tools and hiding operating system artifacts (eg. processes, threads, etc.) from the analysis application, such as Volatility, Memoryze and others. Because of the flaws in some of the memory acquisition tools, Dementia can also hide operating system objects from the analysis tools completely from the user-mode.
 
 For further details about Dementia, check the 29c3 presentation (PDF or video below).
-
+ 
 http://www.youtube.com/watch?feature=player_embedded&v=Q45uvqvripM
 ![]({{site.baseurl}}/0.jpg)
 
